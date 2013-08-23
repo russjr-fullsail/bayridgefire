@@ -8,7 +8,12 @@ Copyright 2013, Josh Cope
    ========================================================================== */
 body{
 background-image: url("../images/background.jpg");
-background-color: grey;
+background-size: 900px 2000px;
+background-repeat: none;
+}
+
+html{
+background-color: white;
 }
 
 
