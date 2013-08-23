@@ -6,16 +6,13 @@ Copyright 2013, Josh Cope
 /* =============================================================================
    Site Styles
    ========================================================================== */
+html{
+background-color: red;
+}
+
 body{
 background-image: url("../images/background.jpg");
-background-size: 900px 2000px;
-background-repeat: none;
 }
-
-html{
-background-color: white;
-}
-
 
 nav li{
 	display: verticle;
