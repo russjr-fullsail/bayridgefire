@@ -7,9 +7,7 @@ Copyright 2013, Josh Cope
    Site Styles
    ========================================================================== */
 html{
-background-image: url("../images/background.jpg");
-background-position: center;
-background-repeat: no-repeat;
+
 }
 
 body{
@@ -17,7 +15,11 @@ background-image: url("../images/main_image.jpg");
 background-repeat: no-repeat;
 background-position: top center;
 }
-
+body{
+background-image: url("../images/background.jpg");
+background-position: center;
+background-repeat: no-repeat;
+}
 nav li{
 	display: verticle;
 }
