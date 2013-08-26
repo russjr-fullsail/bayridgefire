@@ -10,6 +10,12 @@ body{
 background-image: url("../images/background.jpg");
 }
 
+#patch{
+background-image: url("../images/patch.jpg");
+background-position: top left:
+background-repeat: no-repeat;
+}
+
 /*body{
 background-image: url("../images/main_image.jpg");
 background-position: top center;
