@@ -27,135 +27,135 @@ background-repeat: no-repeat;
 
 nav{
 position: verticle;
+
 }
 
 .home{
 box-shadow: -1px 9px 11px -1px #ffffff;
-background-color: transparent;
-border-top-left-radius: 0px;
-border-top-right-radius: 18px;
+background-color: #d3d3d3;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
 border-bottom-right-radius: 0px;
 border-bottom-left-radius: 0px;
 text-indent: 0px;
-border:  2px solid #dcdcdc;
+border:  1px solid black;
 display:  inline-block;
-color: #777777;
+color: black;
 font-family: charcoal cy;
 font-size:  18px;
-font-wieght: bold;
+font-weight: bold;
 font-style:normal;
 height: 21px;
 line-height:21px;
 width:  189px;
 text-decoration: none;
 text-align:  center;
-text-alignt-shadow: 1px 1px 0px #ffffff;
-text-color: #000;
+text-alignt-shadow: 1px 1px 2px red;
 }
 .home:active{
 	position: relative;
 	top:  1px;
-	color: red;
+	background-color: red;
 }
 
 .members{
 box-shadow: -1px 9px 11px -1px #ffffff;
-background-color: transparent;
+background-color: #d3d3d3;
 border-top-left-radius: 0px;
-border-top-right-radius: 18px;
+border-top-right-radius: 0px;
 border-bottom-right-radius: 0px;
 border-bottom-left-radius: 0px;
 text-indent: 0px;
-border:  2px solid #dcdcdc;
+border:  1px solid black;
 display:  inline-block;
-color: #777777;
+color: black;
 font-family: charcoal cy;
 font-size:  18px;
-font-wieght: bold;
+font-weight: bold;
 font-style:normal;
 height: 21px;
 line-height:21px;
 width:  189px;
 text-decoration: none;
 text-align:  center;
-text-alignt-shadow: 1px 1px 0px #ffffff;
+text-alignt-shadow: 1px 1px 2px red;
 text-color: #000;
 }
 .members:active{
 	position: relative;
 	top:  1px;
-	color: red;
+	background-color: red;
 }
 
 .officers{
 box-shadow: -1px 9px 11px -1px #ffffff;
-background-color: transparent;
+background-color: #d3d3d3;
 border-top-left-radius: 0px;
-border-top-right-radius: 18px;
+border-top-right-radius: 0px;
 border-bottom-right-radius: 0px;
 border-bottom-left-radius: 0px;
 text-indent: 0px;
-border:  2px solid #dcdcdc;
+border:  1px solid black;
 display:  inline-block;
-color: #777777;
+color: black;
 font-family: charcoal cy;
 font-size:  18px;
-font-wieght: bold;
+font-weight: bold;
 font-style:normal;
 height: 21px;
 line-height:21px;
 width:  189px;
 text-decoration: none;
 text-align:  center;
-text-alignt-shadow: 1px 1px 0px #ffffff;
+text-alignt-shadow: 1px 1px 0px red;
 text-color: #000;
 }
-.offciers:active{
+.officers:active{
 	position: relative;
 	top:  1px;
-	color: red;
+	background-color: red;
 }
 
 .ladies{
 box-shadow: -1px 9px 11px -1px #ffffff;
-background-color: transparent;
+background-color: #d3d3d3;
 border-top-left-radius: 0px;
-border-top-right-radius: 18px;
+border-top-right-radius: 0px;
 border-bottom-right-radius: 0px;
 border-bottom-left-radius: 0px;
 text-indent: 0px;
-border:  2px solid #dcdcdc;
+border:  1px solid black;
 display:  inline-block;
-color: #777777;
+color: black;
 font-family: charcoal cy;
 font-size:  18px;
-font-wieght: bold;
+font-weight: normal;
 font-style:normal;
 height: 21px;
 line-height:21px;
 width:  189px;
 text-decoration: none;
 text-align:  center;
-text-alignt-shadow: 1px 1px 0px #ffffff;
+text-alignt-shadow: 1px 1px 0px red;
 text-color: #000;
 }
 .ladies:active{
 	position: relative;
 	top:  1px;
-	color: red;
+	background-color: red;
 }
 
 .apparatus{
 box-shadow: -1px 9px 11px -1px #ffffff;
-background-color: transparent;
+background-color: #d3d3d3;
 border-top-left-radius: 0px;
-border-top-right-radius: 18px;
+border-top-right-radius: 0px;
 border-bottom-right-radius: 0px;
 border-bottom-left-radius: 0px;
 text-indent: 0px;
-border:  2px solid #dcdcdc;
+border:  1px solid black;
 display:  inline-block;
-color: #777777;
+color: black;
 font-family: charcoal cy;
 font-size:  18px;
 font-wieght: bold;
@@ -165,26 +165,26 @@ line-height:21px;
 width:  189px;
 text-decoration: none;
 text-align:  center;
-text-alignt-shadow: 1px 1px 0px #ffffff;
+text-alignt-shadow: 1px 1px 0px red;
 text-color: #000;
 }
 .apparatus:active{
 	position: relative;
 	top:  1px;
-	color: red;
+	background-color: red;
 }
 
 .photos{
 box-shadow: -1px 9px 11px -1px #ffffff;
-background-color: transparent;
+background-color: #d3d3d3;
 border-top-left-radius: 0px;
-border-top-right-radius: 18px;
+border-top-right-radius: 0px;
 border-bottom-right-radius: 0px;
 border-bottom-left-radius: 0px;
 text-indent: 0px;
-border:  2px solid #dcdcdc;
+border:  1px solid black;
 display:  inline-block;
-color: #777777;
+color: black;
 font-family: charcoal cy;
 font-size:  18px;
 font-wieght: bold;
@@ -200,20 +200,20 @@ text-color: #000;
 .photos:active{
 	position: relative;
 	top:  1px;
-	color: red;
+	background-color: red;
 }
 
 .fire{
 box-shadow: -1px 9px 11px -1px #ffffff;
-background-color: transparent;
+background-color: #d3d3d3;
 border-top-left-radius: 0px;
-border-top-right-radius: 18px;
+border-top-right-radius: 0px;
 border-bottom-right-radius: 0px;
 border-bottom-left-radius: 0px;
 text-indent: 0px;
-border:  2px solid #dcdcdc;
+border:  1px solid black;
 display:  inline-block;
-color: #777777;
+color: black;
 font-family: charcoal cy;
 font-size:  18px;
 font-wieght: bold;
@@ -229,20 +229,20 @@ text-color: #000;
 .fire:active{
 	position: relative;
 	top:  1px;
-	color: red;
+	background-color: red;
 }
 
 .login{
 box-shadow: -1px 9px 11px -1px #ffffff;
-background-color: transparent;
+background-color: #d3d3d3;
 border-top-left-radius: 0px;
-border-top-right-radius: 18px;
+border-top-right-radius: 0px;
 border-bottom-right-radius: 0px;
 border-bottom-left-radius: 0px;
 text-indent: 0px;
-border:  2px solid #dcdcdc;
+border:  1px solid black;
 display:  inline-block;
-color: #777777;
+color: black;
 font-family: charcoal cy;
 font-size:  18px;
 font-wieght: bold;
@@ -258,20 +258,20 @@ text-color: #000;
 .login:active{
 	position: relative;
 	top:  1px;
-	color: red;
+	background-color: red;
 }
 
 .contact{
 box-shadow: -1px 9px 11px -1px #ffffff;
-background-color: transparent;
+background-color: #d3d3d3;
 border-top-left-radius: 0px;
-border-top-right-radius: 18px;
-border-bottom-right-radius: 0px;
-border-bottom-left-radius: 0px;
+border-top-right-radius: 0px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
 text-indent: 0px;
-border:  2px solid #dcdcdc;
+border:  1px solid black;
 display:  inline-block;
-color: #777777;
+color: black;
 font-family: charcoal cy;
 font-size:  18px;
 font-wieght: bold;
@@ -287,7 +287,7 @@ text-color: #000;
 .contact:active{
 	position: relative;
 	top:  1px;
-	color: red;
+	background-color: red;
 }
 
 
