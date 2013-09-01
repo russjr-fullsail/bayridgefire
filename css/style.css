@@ -8,6 +8,7 @@ Copyright 2013, Josh Cope
    ========================================================================== */
 body{
 background-image: url("../images/background.jpg");
+position: top;
 }
 
 #header{
